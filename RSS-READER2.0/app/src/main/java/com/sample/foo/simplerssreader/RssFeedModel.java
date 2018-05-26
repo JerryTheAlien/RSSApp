@@ -1,9 +1,5 @@
 package com.sample.foo.simplerssreader;
 
-/**
- * Created by obaro on 27/11/2016.
- */
-
 public class RssFeedModel {
 
     public String title;
