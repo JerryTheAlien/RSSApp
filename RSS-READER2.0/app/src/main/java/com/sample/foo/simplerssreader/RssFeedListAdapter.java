@@ -9,9 +9,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by obaro on 27/11/2016.
- */
 
 public class RssFeedListAdapter
         extends RecyclerView.Adapter<RssFeedListAdapter.FeedModelViewHolder> {
